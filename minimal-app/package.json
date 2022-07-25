@@ -1,0 +1,13 @@
+{
+  "name": "minimal-app",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "../minimal-lib"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}

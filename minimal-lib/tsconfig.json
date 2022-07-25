@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node16",
+    "target": "es2020",
+    "module":"ES2020",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "declaration": true, // This causes .d.ts definition files to be generated (by default alongide compiled .js)
+  },
+  "include": [
+    "math.ts"
+  ]
+}

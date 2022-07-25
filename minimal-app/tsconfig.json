@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node16",
+    "target": "es2020",
+    "module":"ES2020",
+    "sourceMap": true,
+    "outDir": "./dist"
+  },
+  "include": [
+    "index.ts"
+  ]
+}
